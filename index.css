@@ -94,6 +94,9 @@ table {
 .main-section2-7 a{
     color: black;
 }
+.main2 img{
+    width: 100%;
+}
 .main-section2{
     display: flex;
     flex-direction: column;
